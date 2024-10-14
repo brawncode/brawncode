@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brawncode
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Solidity and Blockchain
 
 <!---
 brawncode/brawncode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
