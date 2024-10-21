@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brawncode
+- 👋 Hello, I’m @brawncode
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Solidity and Blockchain
 
